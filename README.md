@@ -34,7 +34,7 @@ The analyzer performs a multi-layered analysis to detect suspicious characterist
 1.  **Clone the repository:**
     ```bash
     git clone [https://github.com/your-username/phishguard-analyzer.git](https://github.com/your-username/phishguard-analyzer.git)
-    cd phishguard-analyzer
+    cd Phishing-Email-Analyzer
     ```
 
 2.  **Install Python dependencies:**
