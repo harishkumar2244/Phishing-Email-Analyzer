@@ -1,9 +1,5 @@
 # Phishing-Email-Analyzer
 
-![GitHub last commit](https://img.shields.io/github/last-commit/google/skia)
-![GitHub stars](https://img.shields.io/github/stars/google/skia)
-![GitHub forks](https://img.shields.io/github/forks/google/skia)
-![GitHub issues](https://img.shields.io/github/issues/google/skia)
 
 **PhishGuard** is a Python-based tool designed to automatically analyze email files (`.eml`) to identify and flag potential phishing attacks. It examines email headers, links, and content to generate a risk score and a detailed security report.
 
